@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "algolia-sitemap": "^2.2.1"
+  }
+}
